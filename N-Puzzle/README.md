@@ -24,6 +24,10 @@ We make a key observation: To solve the puzzle from a given search node on the p
 
 ![image][3]
 
+## Dependencies
+
+Package [algs4.jar](http://algs4.cs.princeton.edu/code/algs4.jar) of the University of Princeton. You can access the javadoc [here](http://algs4.cs.princeton.edu/code/javadoc/).
+
 
 [1]: https://github.com/angeldev/Algorithms/blob/master/N-Puzzle/images/N-Puzzle%20legal%20moves.png "Legal Moves"
 [2]: https://github.com/angeldev/Algorithms/blob/master/N-Puzzle/images/N-Puzzle%20priority.png "Priority"
