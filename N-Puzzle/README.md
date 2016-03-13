@@ -25,6 +25,6 @@ We make a key observation: To solve the puzzle from a given search node on the p
 ![image][3]
 
 
-[1]: https://github.com/angeldev/Algorithms/blob/master/N-Puzzle/images/N-Puzzle%20legal%20moves "Legal Moves"
+[1]: https://github.com/angeldev/Algorithms/blob/master/N-Puzzle/images/N-Puzzle%20legal%20moves.png "Legal Moves"
 [2]: https://github.com/angeldev/Algorithms/blob/master/N-Puzzle/images/N-Puzzle%20priority.png "Priority"
 [3]: https://github.com/angeldev/Algorithms/blob/master/N-Puzzle/images/N-Puzzle%20Game%20tree.png "Game Tree"
